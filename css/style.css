@@ -112,7 +112,7 @@ body {
   box-shadow: none !important;
 }
 .footer_banner {
-  background-image: url('/images/footer_bg.png');
+  background-image: url('../images/footer_bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
